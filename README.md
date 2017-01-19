@@ -5,7 +5,7 @@ Package list repository for [mySIMBL](https://github.com/w0lfschild/mySIMBL), th
 To contribute your own package:
 
 - Fork this project
-- Add your compiled and zipped bundle to the bundles folder
+- Add your compiled and zipped plugin to the bundles folder
 - Edit packages_v2.plist to include your submission
 - Submit a pull request
 

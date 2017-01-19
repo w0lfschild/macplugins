@@ -1,5 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
-<dict/>
+<dict>
+	<key>com.mneorr.Alcatraz</key>
+	<dict>
+		<key>description</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>version</key>
+		<string>1.2.1</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string></string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>filename</key>
+		<string>/bundles/Alcatraz_1.2.1.zip</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dt.Xcode</string>
+			</dict>
+		</array>
+		<key>webpage</key>
+		<string></string>
+		<key>homepage</key>
+		<string></string>
+		<key>price</key>
+		<string></string>
+		<key>date</key>
+		<string></string>
+		<key>apps</key>
+		<string></string>
+		<key>size</key>
+		<string>138158</string>
+		<key>package</key>
+		<string>com.mneorr.Alcatraz</string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>name</key>
+		<string>Alcatraz</string>
+	</dict>
+</dict>
 </plist>
