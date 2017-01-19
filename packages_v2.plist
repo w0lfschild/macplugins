@@ -5,7 +5,7 @@
 	<key>com.mneorr.Alcatraz</key>
 	<dict>
 		<key>description</key>
-		<string></string>
+		<string>Plugin manager for Xcode</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>version</key>
@@ -13,7 +13,7 @@
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
-		<string></string>
+		<string>Xcode 7+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
 		<key>filename</key>
@@ -26,15 +26,15 @@
 			</dict>
 		</array>
 		<key>webpage</key>
-		<string></string>
+		<string>http://alcatraz.io/</string>
 		<key>homepage</key>
-		<string></string>
+		<string>http://alcatraz.io/</string>
 		<key>price</key>
-		<string></string>
+		<string>Free</string>
 		<key>date</key>
-		<string></string>
+		<string>Jan 18, 2017</string>
 		<key>apps</key>
-		<string></string>
+		<string>Xcode</string>
 		<key>size</key>
 		<string>138158</string>
 		<key>package</key>
