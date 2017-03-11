@@ -4,20 +4,34 @@
 <dict>
 	<key>com.mneorr.Alcatraz</key>
 	<dict>
-		<key>description</key>
-		<string>Plugin manager for Xcode</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>version</key>
-		<string>1.2.1</string>
+		<key>apps</key>
+		<string>Xcode</string>
 		<key>author</key>
 		<string>Wolfgang Baird</string>
 		<key>compat</key>
 		<string>Xcode 7+</string>
 		<key>contact</key>
 		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Jan 18, 2017</string>
+		<key>description</key>
+		<string>Plugin manager for Xcode</string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
 		<string>/bundles/Alcatraz_1.2.1.zip</string>
+		<key>homepage</key>
+		<string>http://alcatraz.io/</string>
+		<key>name</key>
+		<string>Alcatraz</string>
+		<key>package</key>
+		<string>com.mneorr.Alcatraz</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>138158</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -25,24 +39,56 @@
 				<string>com.apple.dt.Xcode</string>
 			</dict>
 		</array>
+		<key>version</key>
+		<string>1.2.1</string>
 		<key>webpage</key>
 		<string>http://alcatraz.io/</string>
-		<key>homepage</key>
-		<string>http://alcatraz.io/</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>date</key>
-		<string>Jan 18, 2017</string>
+	</dict>
+	<key>name.guoc.excerptor.PDFReaderPlugin</key>
+	<dict>
 		<key>apps</key>
-		<string>Xcode</string>
-		<key>size</key>
-		<string>138158</string>
-		<key>package</key>
-		<string>com.mneorr.Alcatraz</string>
+		<string>Preview / Skim</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>guochen42+excerptor@gmail.com</string>
+		<key>date</key>
+		<string>Mar 11, 2017</string>
+		<key>description</key>
+		<string>When you read a PDF file, you may want to take some excerpts, like excerpting on physical books (including article name, page number etc.). Via Excerptor, you can take excerpts easily: select text in Preview/Skim and type a shortcut. An excerpt will be stored in pasteboard or a file. The excerpt includes a special link. By clicking the link, Excerptor will open the corresponding file by Preview/Skim, go to the page you want and highlight the excerpt you made, automatically.</string>
 		<key>descriptionShort</key>
+		<string>Take and locate excerpts in PDF files quickly</string>
+		<key>donate</key>
 		<string></string>
+		<key>filename</key>
+		<string>/bundles/PDFReaderPlugin_1.2.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/guoc/excerptor</string>
 		<key>name</key>
-		<string>Alcatraz</string>
+		<string>PDFReaderPlugin</string>
+		<key>package</key>
+		<string>name.guoc.excerptor.PDFReaderPlugin</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>30097</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Preview</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>net.sourceforge.skim-app.skim</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.2</string>
+		<key>webpage</key>
+		<string></string>
 	</dict>
 </dict>
 </plist>
