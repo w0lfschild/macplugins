@@ -86,6 +86,132 @@
 		<key>webpage</key>
 		<string>http://alcatraz.io/</string>
 	</dict>
+	<key>me.inket.GlobalNoFullscreenButton</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>mahdi@outlook.com</string>
+		<key>date</key>
+		<string>Mar 15, 2017</string>
+		<key>description</key>
+		<string>Hides fullscreen button from windows.</string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/GlobalNoFullscreenButton_1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/inket</string>
+		<key>name</key>
+		<string>GlobalNoFullscreenButton</string>
+		<key>package</key>
+		<string>me.inket.GlobalNoFullscreenButton</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>5252</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>me.inket.GlobalNoWindowIcon</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>mahdi@outlook.com</string>
+		<key>date</key>
+		<string>Mar 15, 2017</string>
+		<key>description</key>
+		<string>Hides window icons on (almost) all apps.</string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/GlobalNoWindowIcon_1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/inket</string>
+		<key>name</key>
+		<string>GlobalNoWindowIcon</string>
+		<key>package</key>
+		<string>me.inket.GlobalNoWindowIcon</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>16052</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>me.inket.GlobalNoWindowTitle</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>mahdi@outlook.com</string>
+		<key>date</key>
+		<string>Mar 15, 2017</string>
+		<key>description</key>
+		<string>Hides window titles+icons.</string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/GlobalNoWindowTitle_1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/inket</string>
+		<key>name</key>
+		<string>GlobalNoWindowTitle</string>
+		<key>package</key>
+		<string>me.inket.GlobalNoWindowTitle</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>8567</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>name.guoc.excerptor.PDFReaderPlugin</key>
 	<dict>
 		<key>apps</key>
