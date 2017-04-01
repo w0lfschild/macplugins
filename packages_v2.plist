@@ -17,7 +17,7 @@
 		<key>description</key>
 		<string>Load F-Script into all applications</string>
 		<key>descriptionShort</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -85,6 +85,48 @@
 		<string>1.2.1</string>
 		<key>webpage</key>
 		<string>http://alcatraz.io/</string>
+	</dict>
+	<key>me.choco.noTitleBarTerminal</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Apr 01, 2017</string>
+		<key>description</key>
+		<string></string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/noTitleBar-Terminal_0.2.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>noTitleBar-Terminal</string>
+		<key>package</key>
+		<string>me.choco.noTitleBarTerminal</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>10755</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Terminal</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.2</string>
+		<key>webpage</key>
+		<string></string>
 	</dict>
 	<key>me.inket.GlobalNoFullscreenButton</key>
 	<dict>
@@ -255,6 +297,48 @@
 		</array>
 		<key>version</key>
 		<string>1.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.craptech.lightWin</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Apr 01, 2017</string>
+		<key>description</key>
+		<string></string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/lightWin_0.1.14.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>lightWin</string>
+		<key>package</key>
+		<string>org.craptech.lightWin</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>22098</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Terminal</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.1.14</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
