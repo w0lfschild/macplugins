@@ -342,5 +342,47 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>com.hackingdartmouth.message-indicator</key>
+	<dict>
+		<key>apps</key>
+		<string>Messages</string>
+		<key>author</key>
+		<string>Alex Beals</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>alexcbeals+simbl@gmail.com</string>
+		<key>date</key>
+		<string>May 7, 2017</string>
+		<key>description</key>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
+		<key>descriptionShort</key>
+		<string>A Messages indicator for when you haven't responded</string>
+		<key>donate</key>
+		<string>https://paypal.me/AlexBeals</string>
+		<key>filename</key>
+		<string>/bundles/message-indicator.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/dado3212/message-indicator</string>
+		<key>name</key>
+		<string>Message Indicator</string>
+		<key>package</key>
+		<string>com.hackingdartmouth.message-indicator</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>19277</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.iChat</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 </dict>
 </plist>
