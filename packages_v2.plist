@@ -17,7 +17,7 @@
 		<key>description</key>
 		<string>Load F-Script into all applications</string>
 		<key>descriptionShort</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -44,6 +44,48 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>com.hackingdartmouth.message-indicator</key>
+	<dict>
+		<key>apps</key>
+		<string>Messages</string>
+		<key>author</key>
+		<string>Alex Beals</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>alexcbeals+simbl@gmail.com</string>
+		<key>date</key>
+		<string>May 7, 2017</string>
+		<key>description</key>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
+		<key>descriptionShort</key>
+		<string>A Messages indicator for when you haven't responded</string>
+		<key>donate</key>
+		<string>https://paypal.me/AlexBeals</string>
+		<key>filename</key>
+		<string>/bundles/message-indicator.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/dado3212/message-indicator</string>
+		<key>name</key>
+		<string>Message Indicator</string>
+		<key>package</key>
+		<string>com.hackingdartmouth.message-indicator</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>19277</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.iChat</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>com.kuglee.BatteryExtra</key>
 	<dict>
 		<key>apps</key>
@@ -55,15 +97,15 @@
 		<key>contact</key>
 		<string></string>
 		<key>date</key>
-		<string>May 30, 2017</string>
+		<string>Jun 11, 2017</string>
 		<key>description</key>
 		<string>Makes the Battery status indicator work just like how it did back in Mac OS X Lion (10.7). This only supports macOS Sierra (10.12).</string>
 		<key>descriptionShort</key>
 		<string>SIMBL plugin for the Battery status indicator</string>
 		<key>donate</key>
-		<string></string>
+		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/BatteryExtra_1.0.zip</string>
+		<string>/bundles/BatteryExtra_1.1.1.zip</string>
 		<key>homepage</key>
 		<string>https://github.com/kuglee/BatteryExtra</string>
 		<key>name</key>
@@ -71,9 +113,9 @@
 		<key>package</key>
 		<string>com.kuglee.BatteryExtra</string>
 		<key>price</key>
-		<string>$0.00</string>
+		<string>Free</string>
 		<key>size</key>
-		<string>25308</string>
+		<string>27583</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -82,7 +124,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.0</string>
+		<string>1.1.1</string>
 		<key>webpage</key>
 		<string>https://github.com/kuglee/BatteryExtra</string>
 	</dict>
@@ -423,48 +465,6 @@
 		</array>
 		<key>version</key>
 		<string>0.1.14</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>com.hackingdartmouth.message-indicator</key>
-	<dict>
-		<key>apps</key>
-		<string>Messages</string>
-		<key>author</key>
-		<string>Alex Beals</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string>alexcbeals+simbl@gmail.com</string>
-		<key>date</key>
-		<string>May 7, 2017</string>
-		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
-		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven't responded</string>
-		<key>donate</key>
-		<string>https://paypal.me/AlexBeals</string>
-		<key>filename</key>
-		<string>/bundles/message-indicator.zip</string>
-		<key>homepage</key>
-		<string>https://github.com/dado3212/message-indicator</string>
-		<key>name</key>
-		<string>Message Indicator</string>
-		<key>package</key>
-		<string>com.hackingdartmouth.message-indicator</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<string>19277</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.iChat</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.0.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
