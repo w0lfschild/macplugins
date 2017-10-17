@@ -55,9 +55,9 @@
 		<key>contact</key>
 		<string>alexcbeals+simbl@gmail.com</string>
 		<key>date</key>
-		<string>May 7, 2017</string>
+		<string>October 17, 2017</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.  Ctrl+Click to clear.</string>
 		<key>descriptionShort</key>
 		<string>A Messages indicator for when you haven't responded</string>
 		<key>donate</key>
@@ -72,8 +72,6 @@
 		<string>com.hackingdartmouth.message-indicator</string>
 		<key>price</key>
 		<string>Free</string>
-		<key>size</key>
-		<string>19277</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -82,7 +80,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.0.0</string>
+		<string>1.1.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
