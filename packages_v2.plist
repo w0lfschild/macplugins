@@ -17,7 +17,7 @@
 		<key>description</key>
 		<string>Load F-Script into all applications</string>
 		<key>descriptionShort</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -51,29 +51,29 @@
 		<key>author</key>
 		<string>Alex Beals</string>
 		<key>compat</key>
-		<string>macOS 10.10+</string>
+		<string>macOS 10.9+</string>
 		<key>contact</key>
 		<string>alexcbeals+simbl@gmail.com</string>
 		<key>date</key>
-		<string>May 7, 2017</string>
+		<string>Feb 03, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven't responded</string>
+		<string>A Messages indicator for when you haven&apos;t responded</string>
 		<key>donate</key>
-		<string>https://paypal.me/AlexBeals</string>
+		<string></string>
 		<key>filename</key>
-		<string>/bundles/message-indicator.zip</string>
+		<string>/bundles/message-indicator_1.1.0.zip</string>
 		<key>homepage</key>
 		<string>https://github.com/dado3212/message-indicator</string>
 		<key>name</key>
-		<string>Message Indicator</string>
+		<string>message-indicator</string>
 		<key>package</key>
 		<string>com.hackingdartmouth.message-indicator</string>
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>19277</string>
+		<string>20002</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -82,7 +82,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.0.0</string>
+		<string>1.1.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
