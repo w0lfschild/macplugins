@@ -17,7 +17,7 @@
 		<key>description</key>
 		<string>Load F-Script into all applications</string>
 		<key>descriptionShort</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -55,19 +55,13 @@
 		<key>contact</key>
 		<string>alexcbeals+simbl@gmail.com</string>
 		<key>date</key>
-<<<<<<< HEAD
-		<string>Feb 03, 2018</string>
+		<string>Feb 04, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
-=======
-		<string>October 17, 2017</string>
-		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.  Ctrl+Click to clear.</string>
->>>>>>> d627a4c2a2b0119ee3cbaf864cb46f1e841103eb
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven&apos;t responded</string>
+		<string>A Messages indicator for when you haven't responded</string>
 		<key>donate</key>
-		<string></string>
+		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
 		<string>/bundles/message-indicator_1.1.0.zip</string>
 		<key>homepage</key>
@@ -78,11 +72,8 @@
 		<string>com.hackingdartmouth.message-indicator</string>
 		<key>price</key>
 		<string>Free</string>
-<<<<<<< HEAD
 		<key>size</key>
 		<string>20002</string>
-=======
->>>>>>> d627a4c2a2b0119ee3cbaf864cb46f1e841103eb
 		<key>targets</key>
 		<array>
 			<dict>
