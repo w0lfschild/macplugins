@@ -17,7 +17,7 @@
 		<key>description</key>
 		<string>Load F-Script into all applications</string>
 		<key>descriptionShort</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -57,9 +57,9 @@
 		<key>date</key>
 		<string>Feb 04, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven't responded</string>
+		<string>A Messages indicator for when you haven&apos;t responded</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -86,36 +86,36 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
-	<key>com.kuglee.BatteryExtra</key>
+	<key>com.kuglee.batteryextra</key>
 	<dict>
 		<key>apps</key>
 		<string>Battery Statusbar Item</string>
 		<key>author</key>
 		<string>Gábor Librecz</string>
 		<key>compat</key>
-		<string>macOS 10.9+</string>
+		<string>macOS 10.11+</string>
 		<key>contact</key>
 		<string></string>
 		<key>date</key>
-		<string>Jun 11, 2017</string>
+		<string>May 05, 2018</string>
 		<key>description</key>
 		<string>Makes the Battery status indicator work just like how it did back in Mac OS X Lion (10.7). This only supports macOS Sierra (10.12).</string>
 		<key>descriptionShort</key>
-		<string>SIMBL plugin for the Battery status indicator</string>
+		<string>Plugin for the Battery status indicator</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/BatteryExtra_1.1.1.zip</string>
+		<string>/bundles/BatteryExtra_1.3.1.zip</string>
 		<key>homepage</key>
 		<string>https://github.com/kuglee/BatteryExtra</string>
 		<key>name</key>
 		<string>BatteryExtra</string>
 		<key>package</key>
-		<string>com.kuglee.BatteryExtra</string>
+		<string>com.kuglee.batteryextra</string>
 		<key>price</key>
-		<string>Free</string>
+		<string>$0.00</string>
 		<key>size</key>
-		<string>27583</string>
+		<string>6476161</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -124,7 +124,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.1.1</string>
+		<string>1.3.1</string>
 		<key>webpage</key>
 		<string>https://github.com/kuglee/BatteryExtra</string>
 	</dict>
@@ -169,6 +169,48 @@
 		<string>1.2.1</string>
 		<key>webpage</key>
 		<string>http://alcatraz.io/</string>
+	</dict>
+	<key>com.shishkabibal.WriteReceipt</key>
+	<dict>
+		<key>apps</key>
+		<string>Messages</string>
+		<key>author</key>
+		<string>Brian</string>
+		<key>compat</key>
+		<string>macOS 10.13+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>May 05, 2018</string>
+		<key>description</key>
+		<string>WriteReceipt is a plugin for Messages that leaves chats unread (and read receipts unsent) until you begin typing a reply (or press enter)</string>
+		<key>descriptionShort</key>
+		<string>Leave iMessage chats unread until you begin typing a reply</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/WriteReceipt_1.1.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/shishkabibal/WriteReceipt</string>
+		<key>name</key>
+		<string>WriteReceipt</string>
+		<key>package</key>
+		<string>com.shishkabibal.WriteReceipt</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>76074</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.iChat</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.1</string>
+		<key>webpage</key>
+		<string>https://github.com/shishkabibal/WriteReceipt</string>
 	</dict>
 	<key>info.8-p.GreaseKit</key>
 	<dict>
