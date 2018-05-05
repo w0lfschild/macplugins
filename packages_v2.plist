@@ -86,36 +86,36 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
-	<key>com.kuglee.batteryextra</key>
+	<key>com.kuglee.BatteryExtra</key>
 	<dict>
 		<key>apps</key>
 		<string>Battery Statusbar Item</string>
 		<key>author</key>
 		<string>Gábor Librecz</string>
 		<key>compat</key>
-		<string>macOS 10.11+</string>
+		<string>macOS 10.12+</string>
 		<key>contact</key>
-		<string></string>
+		<string>kuglee@gmail.com</string>
 		<key>date</key>
-		<string>May 05, 2018</string>
+		<string>Apr 12, 2018</string>
 		<key>description</key>
-		<string>Makes the Battery status indicator work just like how it did back in Mac OS X Lion (10.7). This only supports macOS Sierra (10.12).</string>
+		<string>Makes the Battery status indicator work just like how it did back in Mac OS X Lion (10.7).</string>
 		<key>descriptionShort</key>
-		<string>Plugin for the Battery status indicator</string>
+		<string>SIMBL plugin for the Battery status indicator</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
-		<string>/bundles/BatteryExtra_1.3.1.zip</string>
+		<string>/bundles/BatteryExtra_1.2.zip</string>
 		<key>homepage</key>
 		<string>https://github.com/kuglee/BatteryExtra</string>
 		<key>name</key>
 		<string>BatteryExtra</string>
 		<key>package</key>
-		<string>com.kuglee.batteryextra</string>
+		<string>com.kuglee.BatteryExtra</string>
 		<key>price</key>
-		<string>$0.00</string>
+		<string>Free</string>
 		<key>size</key>
-		<string>6476161</string>
+		<string>32861</string>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -124,7 +124,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.3.1</string>
+		<string>1.2</string>
 		<key>webpage</key>
 		<string>https://github.com/kuglee/BatteryExtra</string>
 	</dict>
@@ -169,48 +169,6 @@
 		<string>1.2.1</string>
 		<key>webpage</key>
 		<string>http://alcatraz.io/</string>
-	</dict>
-	<key>com.shishkabibal.WriteReceipt</key>
-	<dict>
-		<key>apps</key>
-		<string>Messages</string>
-		<key>author</key>
-		<string>Brian</string>
-		<key>compat</key>
-		<string>macOS 10.13+</string>
-		<key>contact</key>
-		<string></string>
-		<key>date</key>
-		<string>May 05, 2018</string>
-		<key>description</key>
-		<string>WriteReceipt is a plugin for Messages that leaves chats unread (and read receipts unsent) until you begin typing a reply (or press enter)</string>
-		<key>descriptionShort</key>
-		<string>Leave iMessage chats unread until you begin typing a reply</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/WriteReceipt_1.1.zip</string>
-		<key>homepage</key>
-		<string>https://github.com/shishkabibal/WriteReceipt</string>
-		<key>name</key>
-		<string>WriteReceipt</string>
-		<key>package</key>
-		<string>com.shishkabibal.WriteReceipt</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>76074</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.iChat</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.1</string>
-		<key>webpage</key>
-		<string>https://github.com/shishkabibal/WriteReceipt</string>
 	</dict>
 	<key>info.8-p.GreaseKit</key>
 	<dict>
