@@ -2,6 +2,48 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.alexbeals.spaces-renamer</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>May 29, 2018</string>
+		<key>description</key>
+		<string></string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/spaces-renamer_1.4.1.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>spaces-renamer</string>
+		<key>package</key>
+		<string>com.alexbeals.spaces-renamer</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<string>22541</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.4.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
 	<key>com.faramaz.SIMBL-FScript</key>
 	<dict>
 		<key>apps</key>
@@ -17,7 +59,7 @@
 		<key>description</key>
 		<string>Load F-Script into all applications</string>
 		<key>descriptionShort</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -57,9 +99,9 @@
 		<key>date</key>
 		<string>Feb 04, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven&apos;t responded</string>
+		<string>A Messages indicator for when you haven't responded</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
