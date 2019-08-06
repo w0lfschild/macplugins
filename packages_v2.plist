@@ -4,26 +4,28 @@
 <dict>
 	<key>com.alexbeals.spaces-renamer</key>
 	<dict>
+		<key>type</key>
+		<string>app</string>
 		<key>apps</key>
-		<string></string>
+		<string>Dock</string>
 		<key>author</key>
-		<string>Wolfgang Baird</string>
+		<string>Alex Beals</string>
 		<key>compat</key>
-		<string>macOS 10.9+</string>
+		<string>macOS 10.10+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string></string>
 		<key>date</key>
-		<string>May 29, 2018</string>
+		<string>Aug 05, 2019</string>
 		<key>description</key>
-		<string></string>
+		<string>Rename spaces</string>
 		<key>descriptionShort</key>
-		<string></string>
+		<string>Tool that lets you customize the names of your spaces to anything you want.</string>
 		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/spaces-renamer_1.4.1.zip</string>
-		<key>homepage</key>
 		<string></string>
+		<key>filename</key>
+		<string>/bundles/spaces-renamer_1.7.0.zip</string>
+		<key>homepage</key>
+		<string>https://alexbeals.com/</string>
 		<key>name</key>
 		<string>spaces-renamer</string>
 		<key>package</key>
@@ -40,9 +42,9 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.4.1</string>
+		<string>1.7.0</string>
 		<key>webpage</key>
-		<string></string>
+		<string>https://alexbeals.com/</string>
 	</dict>
 	<key>com.faramaz.SIMBL-FScript</key>
 	<dict>
@@ -59,7 +61,7 @@
 		<key>description</key>
 		<string>Load F-Script into all applications</string>
 		<key>descriptionShort</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script's Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can't use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -99,9 +101,9 @@
 		<key>date</key>
 		<string>Feb 04, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven't responded</string>
+		<string>A Messages indicator for when you haven&apos;t responded</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
