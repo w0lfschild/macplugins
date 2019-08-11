@@ -227,11 +227,11 @@
 		<key>date</key>
 		<string>May 05, 2018</string>
 		<key>description</key>
-		<string></string>
+		<string>plugin for Messages that leaves chats unread (and read receipts unsent) until you begin typing a reply (or press enter)</string>
 		<key>descriptionShort</key>
-		<string></string>
+		<string>Leaves chats unread until you type</string>
 		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
+		<string></string>
 		<key>filename</key>
 		<string>/bundles/WriteReceipt_1.1.zip</string>
 		<key>homepage</key>
@@ -269,9 +269,9 @@
 		<key>date</key>
 		<string>Apr 01, 2017</string>
 		<key>description</key>
-		<string></string>
+		<string>GreaseKit is a MacForge plugin, that adds user scripting to Safari, Mailplane, Diet Pibb.app and all WebKit applications.</string>
 		<key>descriptionShort</key>
-		<string></string>
+		<string>Adds user scripting to Safari</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -311,9 +311,9 @@
 		<key>date</key>
 		<string>Apr 01, 2017</string>
 		<key>description</key>
-		<string></string>
+		<string>Removes the titlebar from the Terminal for a clean look while coding.</string>
 		<key>descriptionShort</key>
-		<string></string>
+		<string>No tiltle bar in the Terminal app</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -525,11 +525,11 @@
 		<key>date</key>
 		<string>Apr 01, 2017</string>
 		<key>description</key>
-		<string></string>
+		<string>Simple bundle to give Terminal a borderless, shadowless look</string>
 		<key>descriptionShort</key>
-		<string></string>
+		<string>borderless, shadowless Terminal.app</string>
 		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
+		<string></string>
 		<key>filename</key>
 		<string>/bundles/lightWin_0.1.14.zip</string>
 		<key>homepage</key>
