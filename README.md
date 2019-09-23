@@ -1,12 +1,12 @@
-mySIMBL-plugins
+MacForge Plugins
 =================
-Package list repository for [mySIMBL](https://github.com/w0lfschild/mySIMBL), the MacOS Plugin Manager.
+Package list repository for [MacForge](https://github.com/w0lfschild/MacForge), the MacOS Plugin Manager.
 
 To contribute your own package:
 
 - Fork this project
 - Add your compiled and zipped plugin to the bundles folder
-- Edit packages_v2.plist to include your submission
+- Edit [packages_v2.plist](https://github.com/w0lfschild/macplugins/blob/master/packages_v2.plist) to include your submission
 - Submit a pull request
 
 Every package uses this format:
@@ -49,7 +49,7 @@ Example:
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
 		<string>Dec 20, 2016</string>
 		<key>description</key>
