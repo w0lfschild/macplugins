@@ -23,7 +23,7 @@
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
-		<string>/bundles/spaces-renamer_1.7.0.zip</string>
+		<string>/bundles/spaces-renamer_1.7.1.zip</string>
 		<key>homepage</key>
 		<string>https://alexbeals.com/</string>
 		<key>name</key>
@@ -42,11 +42,11 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.7.0</string>
+		<string>1.7.1</string>
 		<key>webpage</key>
 		<string>https://alexbeals.com/</string>
 	</dict>
-	<key>com.faramaz.SIMBL-FScript</key>
+	<key>org.w0lf.FScriptLoader</key>
 	<dict>
 		<key>apps</key>
 		<string>System</string>
@@ -55,23 +55,23 @@
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
+		<string>support@macenhance.com</string>
 		<key>date</key>
-		<string>Mar 11, 2017</string>
+		<string>Sep 08, 2019</string>
 		<key>description</key>
-		<string>Load F-Script into all applications</string>
-		<key>descriptionShort</key>
 		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
+		<key>descriptionShort</key>
+		<string>Load F-Script into all applications</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
-		<string>/bundles/SIMBL-FScript_1.0.zip</string>
+		<string>/bundles/FScriptLoader_1.1.zip</string>
 		<key>homepage</key>
-		<string>https://github.com/perfaram/SIMBL-fscript</string>
+		<string>https://github.com/w0lfschild/FScriptLoader</string>
 		<key>name</key>
-		<string>SIMBL-FScript</string>
+		<string>FScriptLoader</string>
 		<key>package</key>
-		<string>com.faramaz.SIMBL-FScript</string>
+		<string>org.w0lf.FScriptLoader</string>
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
