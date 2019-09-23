@@ -46,48 +46,6 @@
 		<key>webpage</key>
 		<string>https://alexbeals.com/</string>
 	</dict>
-	<key>org.w0lf.FScriptLoader</key>
-	<dict>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>support@macenhance.com</string>
-		<key>date</key>
-		<string>Sep 08, 2019</string>
-		<key>description</key>
-		<string>Runtime exploration of Objective-C and Objective-C++ programs through F-Script&apos;s Object Browser and Console. Specifically, this plugin comes in handy when the program you want to explore disables debugger-attaching (so you can&apos;t use it to load the F-Script framework), or when the program has no menu bar (such as a status-bar-only app). In these cases, use EasySIMBL to load this plugin, and then use the shortcuts to control F-Script ! (see below for detailed instructions).</string>
-		<key>descriptionShort</key>
-		<string>Load F-Script into all applications</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/FScriptLoader_1.1.zip</string>
-		<key>homepage</key>
-		<string>https://github.com/w0lfschild/FScriptLoader</string>
-		<key>name</key>
-		<string>FScriptLoader</string>
-		<key>package</key>
-		<string>org.w0lf.FScriptLoader</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>159030</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.0</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
 	<key>com.hackingdartmouth.message-indicator</key>
 	<dict>
 		<key>apps</key>
