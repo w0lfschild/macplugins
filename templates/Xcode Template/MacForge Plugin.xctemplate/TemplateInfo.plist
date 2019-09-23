@@ -5,7 +5,7 @@
 	<key>Kind</key>
 	<string>Xcode.Xcode3.ProjectTemplateUnitKind</string>
 	<key>Identifier</key>
-	<string>com.poboke.EasySIMBLBundle</string>
+	<string>com.macenhance.samplebundle</string>
 	<key>Concrete</key>
 	<true/>
 	<key>Description</key>
@@ -36,7 +36,7 @@
 				<key>DSTROOT</key>
 				<string>/</string>
 				<key>INSTALL_PATH</key>
-				<string>/Library/Application Support/SIMBL/Plugins</string>
+				<string>/Library/Application Support/MacEnhance/Plugins</string>
 				<key>WRAPPER_EXTENSION</key>
 				<string>bundle</string>
 				<key>MACH_O_TYPE</key>

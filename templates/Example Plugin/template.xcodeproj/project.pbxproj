@@ -79,8 +79,6 @@
 				FB49072A1D62BDF200FA9D73 /* Frameworks */,
 				FB49072B1D62BDF200FA9D73 /* Resources */,
 				FB49073A1D62BF0D00FA9D73 /* 🌀 Increase build number */,
-				FB49073B1D62BFAE00FA9D73 /* 🌀 Copy to project build folder */,
-				FB4907381D62BE9000FA9D73 /* 🌀 Copy to /Library/Application Support/SIMBL/Plugins */,
 				FB4907391D62BECB00FA9D73 /* 🌀 Restart stuff */,
 			);
 			buildRules = (
@@ -113,6 +111,7 @@
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
 			knownRegions = (
+				English,
 				en,
 			);
 			mainGroup = FB4907241D62BDF200FA9D73;
@@ -136,20 +135,6 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXShellScriptBuildPhase section */
-		FB4907381D62BE9000FA9D73 /* 🌀 Copy to /Library/Application Support/SIMBL/Plugins */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "🌀 Copy to /Library/Application Support/SIMBL/Plugins";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "if [[ \"$WRAPPER_EXTENSION\" == \"bundle\" ]]; then\n    if [[ -e /Library/Application\\ Support/SIMBL/Plugins ]]; then\n        cp -Rf \"${BUILT_PRODUCTS_DIR}/${EXECUTABLE_NAME}.$WRAPPER_EXTENSION\" /Library/Application\\ Support/SIMBL/Plugins\n    fi\nfi";
-		};
 		FB4907391D62BECB00FA9D73 /* 🌀 Restart stuff */ = {
 			isa = PBXShellScriptBuildPhase;
 			buildActionMask = 2147483647;
@@ -162,7 +147,7 @@
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
-			shellScript = "#killall ";
+			shellScript = "#killall \n";
 		};
 		FB49073A1D62BF0D00FA9D73 /* 🌀 Increase build number */ = {
 			isa = PBXShellScriptBuildPhase;
@@ -177,20 +162,6 @@
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;
 			shellScript = "VERSIONNUM=$(/usr/libexec/PlistBuddy -c \"Print CFBundleShortVersionString\" \"${PROJECT_DIR}/${INFOPLIST_FILE}\")\nNEWSUBVERSION=`echo $VERSIONNUM | awk -F \".\" '{print $3}'`\nNEWSUBVERSION=$(($NEWSUBVERSION + 1))\nNEWVERSIONSTRING=`echo $VERSIONNUM | awk -F \".\" '{print $1 \".\" $2 \".'$NEWSUBVERSION'\" }'`\n/usr/libexec/PlistBuddy -c \"Set :CFBundleShortVersionString $NEWVERSIONSTRING\" \"${PROJECT_DIR}/${INFOPLIST_FILE}\"\n/usr/libexec/PlistBuddy -c \"Set :CFBundleVersion $NEWVERSIONSTRING\" \"${PROJECT_DIR}/${INFOPLIST_FILE}\"";
-		};
-		FB49073B1D62BFAE00FA9D73 /* 🌀 Copy to project build folder */ = {
-			isa = PBXShellScriptBuildPhase;
-			buildActionMask = 2147483647;
-			files = (
-			);
-			inputPaths = (
-			);
-			name = "🌀 Copy to project build folder";
-			outputPaths = (
-			);
-			runOnlyForDeploymentPostprocessing = 0;
-			shellPath = /bin/sh;
-			shellScript = "if [[ ! -e \"${SRCROOT}/build\" ]]; then mkdir \"${SRCROOT}/build\"; fi\ncp -Rf \"${BUILT_PRODUCTS_DIR}/${EXECUTABLE_NAME}.$WRAPPER_EXTENSION\" \"${SRCROOT}/build\"";
 		};
 /* End PBXShellScriptBuildPhase section */
 
@@ -301,12 +272,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				DEPLOYMENT_LOCATION = YES;
 				DEVELOPMENT_TEAM = EX596BNL45;
+				DSTROOT = /;
 				INFOPLIST_FILE = template/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
-				PRODUCT_BUNDLE_IDENTIFIER = org.w0lf.template;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Application Support/MacEnhance/Plugins";
+				PRODUCT_BUNDLE_IDENTIFIER = com.macenhance.template;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = bundle;
 			};
 			name = Debug;
@@ -315,12 +287,13 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				COMBINE_HIDPI_IMAGES = YES;
+				DEPLOYMENT_LOCATION = YES;
 				DEVELOPMENT_TEAM = EX596BNL45;
+				DSTROOT = /;
 				INFOPLIST_FILE = template/Info.plist;
-				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Bundles";
-				PRODUCT_BUNDLE_IDENTIFIER = org.w0lf.template;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Application Support/MacEnhance/Plugins";
+				PRODUCT_BUNDLE_IDENTIFIER = com.macenhance.template;
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				SKIP_INSTALL = YES;
 				WRAPPER_EXTENSION = bundle;
 			};
 			name = Release;
