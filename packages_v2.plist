@@ -573,5 +573,580 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>ca.adambell.DarkDock</key>
+	<dict>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>Adam Bell</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>adam@adambell.ca</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Force the Dock to display in Dark Mode</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/DarkDock_1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/b3ll/DarkDock/</string>
+		<key>name</key>
+		<string>DarkDock</string>
+		<key>package</key>
+		<string>ca.adambell.DarkDock</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>19941</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock.extra</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.BenTrask.ScrollbarsOnTheLeft</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Ben Trask</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>bentrask@comcast.net</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Change scrollbar placement to the left side</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/ScrollbarsOnTheLeft_1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/btrask/ScrollbarsOnTheLeft</string>
+		<key>name</key>
+		<string>ScrollbarsOnTheLeft</string>
+		<key>package</key>
+		<string>com.BenTrask.ScrollbarsOnTheLeft</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>9786</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.elanini.PreviewNoSidebar</key>
+	<dict>
+		<key>apps</key>
+		<string>Preview</string>
+		<key>author</key>
+		<string>Elanini</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>No sidebar in preview</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/PreviewNoSidebar_1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/elanini/PreviewNoSidebar</string>
+		<key>name</key>
+		<string>PreviewNoSidebar</string>
+		<key>package</key>
+		<string>com.elanini.PreviewNoSidebar</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>11061</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Preview</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.hetima.SafariStand</key>
+	<dict>
+		<key>apps</key>
+		<string>Safari</string>
+		<key>author</key>
+		<string>Hetima</string>
+		<key>compat</key>
+		<string>Safari 9</string>
+		<key>contact</key>
+		<string>hetima@hetima.com</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Improvements to Safari</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/SafariStand_9.0.217Yosemite.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/hetima/SafariStand/</string>
+		<key>name</key>
+		<string>SafariStand</string>
+		<key>package</key>
+		<string>com.hetima.SafariStand</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>346315</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Safari</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>9.0.217Yosemite</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.pooriaazimi.betterdictionary</key>
+	<dict>
+		<key>apps</key>
+		<string>Dictionary</string>
+		<key>author</key>
+		<string>Pooria Azimi</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>pooriaazimi@gmail.com</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Improve the dictionary app</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/BetterDictionary_0.992.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/pooriaazimi/BetterDictionary/</string>
+		<key>name</key>
+		<string>BetterDictionary</string>
+		<key>package</key>
+		<string>com.pooriaazimi.betterdictionary</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>326967</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Dictionary</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.992</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.prestonmueller.RadonChrome</key>
+	<dict>
+		<key>apps</key>
+		<string>Google Chrome</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>Chrome 50+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Send Chrome notification to the notification center</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/RadonChrome_1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/w0lfschild/RadonChrome/</string>
+		<key>name</key>
+		<string>RadonChrome</string>
+		<key>package</key>
+		<string>com.prestonmueller.RadonChrome</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>18454</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.google.Chrome</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.google.Chrome.canary</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.s21g.TerminalCopyOnSelect</key>
+	<dict>
+		<key>apps</key>
+		<string>Terminal</string>
+		<key>author</key>
+		<string>Minoru Nakata</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>Jan 19, 2017</string>
+		<key>description</key>
+		<string>Copy text on selection in Terminal</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/TerminalCopyOnSelect_0.1.2.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/u-minor/terminalcopyonselect</string>
+		<key>name</key>
+		<string>TerminalCopyOnSelect</string>
+		<key>package</key>
+		<string>com.s21g.TerminalCopyOnSelect</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>5153</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Terminal</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.1.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.yourcompany.MenuBarHider</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Crazor</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>crazor@gmail.com</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Hide the menubar on OSX 10.10 and below</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/MenuBarHider_1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/Crazor/MenuBarHider/</string>
+		<key>name</key>
+		<string>MenuBarHider</string>
+		<key>package</key>
+		<string>com.yourcompany.MenuBarHider</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>10978</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>io.callcc.Spaytify</key>
+	<dict>
+		<key>apps</key>
+		<string>Spotify</string>
+		<key>author</key>
+		<string>Matt Green
+Matt Green</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>MattGreenrocks@gmail.com</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/Spaytify_1.0.1.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/mattgreen/spaytify</string>
+		<key>name</key>
+		<string>Spaytify</string>
+		<key>package</key>
+		<string>io.callcc.Spaytify</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>4799</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.spotify.client</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>me.inket.CustomNC</key>
+	<dict>
+		<key>apps</key>
+		<string>Notification Center</string>
+		<key>author</key>
+		<string>Mahdi Bchetnia</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>mahdi@outlook.com</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Personalise your Notification Center banners and alerts</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/CustomNC_1.5.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/inket/CustomNC</string>
+		<key>name</key>
+		<string>CustomNC</string>
+		<key>package</key>
+		<string>me.inket.CustomNC</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>21336</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.notificationcenterui</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.5</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>me.inket.cosyTabs</key>
+	<dict>
+		<key>apps</key>
+		<string>Safari</string>
+		<key>author</key>
+		<string>Mahdi Bchetnia</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>mahdi@outlook.com</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Safari 5 tabs on Safari 6+</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/cosyTabs_1.4.2.zip</string>
+		<key>homepage</key>
+		<string>https://mahdi.jp/apps/cosytabs</string>
+		<key>name</key>
+		<string>cosyTabs</string>
+		<key>package</key>
+		<string>me.inket.cosyTabs</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>16650</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Safari</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.4.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.bitheap.MouseTerm</key>
+	<dict>
+		<key>apps</key>
+		<string>Terminal</string>
+		<key>author</key>
+		<string>Brodie Rao</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>brodie@sf.io</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Adds xterm mouse reporting to Terminal</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/MouseTerm_plus-1.0a10.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/brodie/mouseterm</string>
+		<key>name</key>
+		<string>MouseTerm</string>
+		<key>package</key>
+		<string>org.bitheap.MouseTerm</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>76236</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Terminal</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>plus-1.0a10</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.michaelphines.ChromeDimBackground</key>
+	<dict>
+		<key>apps</key>
+		<string>Google Chrome</string>
+		<key>author</key>
+		<string>krackers</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Themed tabs change when in the background</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/ChromeDimBackground_0.1.1.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/krackers/ChromeDimBackground</string>
+		<key>name</key>
+		<string>ChromeDimBackground</string>
+		<key>package</key>
+		<string>org.michaelphines.ChromeDimBackground</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>17929</string>
+		<key>target</key>
+		<string>null</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.google.Chrome</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.google.Chrome.canary</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.1.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>ws.hbang.typestatus.mac</key>
+	<dict>
+		<key>apps</key>
+		<string>Messages</string>
+		<key>author</key>
+		<string>HASHBANG Productions</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>support@hbang.ws</string>
+		<key>date</key>
+		<string>Dec 21, 2016</string>
+		<key>description</key>
+		<string>Disply a notification when others are typing in Messages</string>
+		<key>donate</key>
+		<string>https://hbang.ws/donate/</string>
+		<key>filename</key>
+		<string>/bundles/TypeStatus_1.0.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>TypeStatus</string>
+		<key>package</key>
+		<string>ws.hbang.typestatus.mac</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<string>16275</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.iChat</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string>https://typestatus.com/</string>
+	</dict>
 </dict>
 </plist>
