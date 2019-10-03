@@ -4,6 +4,8 @@
 <dict>
 	<key>com.github.jslegendre.Termite</key>
 	<dict>
+		<key>version</key>
+		<string>1.0.37</string>
 		<key>apps</key>
 		<string>Bartender 3</string>
 		<key>author</key>
