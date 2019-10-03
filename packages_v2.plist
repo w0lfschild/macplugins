@@ -2,8 +2,12 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>com.alexbeals.spaces-renamer</key>
+	<key>com.alexbeals.SpacesRenamer</key>
 	<dict>
+		<key>icon</key>
+		<string>/images/com.alexbeals.SpacesRenamer/icon.png</string>
+		<key>payed</key>
+		<false/>
 		<key>type</key>
 		<string>app</string>
 		<key>apps</key>
@@ -17,9 +21,9 @@
 		<key>date</key>
 		<string>Aug 05, 2019</string>
 		<key>description</key>
-		<string>Rename spaces</string>
+		<string>Simple menubar tool that lets you customize the names of your spaces to anything you want.</string>
 		<key>descriptionShort</key>
-		<string>Tool that lets you customize the names of your spaces to anything you want.</string>
+		<string>Rename spaces on macOS</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -29,7 +33,7 @@
 		<key>name</key>
 		<string>spaces-renamer</string>
 		<key>package</key>
-		<string>com.alexbeals.spaces-renamer</string>
+		<string>com.alexbeals.SpacesRenamer</string>
 		<key>price</key>
 		<string>$0.00</string>
 		<key>size</key>
@@ -45,6 +49,63 @@
 		<string>1.7.1</string>
 		<key>webpage</key>
 		<string>https://alexbeals.com/</string>
+	</dict>
+	<key>com.github.jslegendre.LiftOff</key>
+	<dict>
+		<key>icon</key>
+		<string>/images/com.github.jslegendre.LiftOff/icon.png</string>
+		<key>payed</key>
+		<true/>
+		<key>paddle</key>
+		<dict>
+			<key>apikey</key>
+			<string>508205c7de527e9cc702cd1b1e5e2733</string>
+			<key>vendorid</key>
+			<string>102003</string>
+			<key>productid</key>
+			<string>570933</string>
+		</dict>
+		<key>productID</key>
+		<string>570933</string>
+		<key>type</key>
+		<string>Bundle</string>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string></string>
+		<key>compat</key>
+		<string>macOS 10.15+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>Sep 19, 2018</string>
+		<key>description</key>
+		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
+		<key>descriptionShort</key>
+		<string>Overlay Launchpad on the Desktop</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/LiftOff_0.0.2885.zip</string>
+		<key>name</key>
+		<string>LiftOff</string>
+		<key>package</key>
+		<string>com.github.jslegendre.LiftOff</string>
+		<key>price</key>
+		<string>$2.99</string>
+		<key>size</key>
+		<string>1234</string>
+		<key>version</key>
+		<string>0.0.2885</string>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
 	</dict>
 	<key>com.hackingdartmouth.message-indicator</key>
 	<dict>
