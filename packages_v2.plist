@@ -2,6 +2,42 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.github.jslegendre.Termite</key>
+	<dict>
+		<key>apps</key>
+		<string>Bartender 3</string>
+		<key>author</key>
+		<string>Jeremy Legendre</string>
+		<key>compat</key>
+		<string>macOS 10.14+</string>
+		<key>contact</key>
+		<string>jslegendre@gmail.com</string>
+		<key>date</key>
+		<string>Oct 3, 2019</string>
+		<key>description</key>
+		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
+		<key>descriptionShort</key>
+		<string>Expand Bartender 3 on mouse over</string>
+		<key>filename</key>
+		<string>/bundles/Termite.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/jslegendre/Termite</string>
+		<key>name</key>
+		<string>Termite</string>
+		<key>package</key>
+		<string>com.github.jslegendre.Termite</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.surteesstudios.Bartender</string>
+			</dict>
+		</array>
+		<key>webpage</key>
+		<string>https://github.com/jslegendre/Termite</string>
+	</dict>
 	<key>com.alexbeals.SpacesRenamer</key>
 	<dict>
 		<key>icon</key>
