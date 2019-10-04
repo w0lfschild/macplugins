@@ -40,7 +40,11 @@ Example:
 
 
 ```plist
-<key>org.w0lf.winBuddy</key>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>org.w0lf.winBuddy</key>
 	<dict>
 		<key>apps</key>
 		<string>System</string>
@@ -84,4 +88,6 @@ Example:
 		<key>webpage</key>
 		<string></string>
 	</dict>
+</dict>
+</plist>
 ```
