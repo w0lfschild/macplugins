@@ -5,7 +5,7 @@
 	<key>com.github.jslegendre.Termite</key>
 	<dict>
 		<key>version</key>
-		<string>1.0.38</string>
+		<string>1.0.37</string>
 		<key>apps</key>
 		<string>Bartender 3</string>
 		<key>author</key>
@@ -21,7 +21,7 @@
 		<key>descriptionShort</key>
 		<string>Expand Bartender 3 on mouse over</string>
 		<key>filename</key>
-		<string>/bundles/Termite_1.0.38.zip</string>
+		<string>/bundles/Termite_1.0.37.zip</string>
 		<key>homepage</key>
 		<string>https://github.com/jslegendre/Termite</string>
 		<key>name</key>
