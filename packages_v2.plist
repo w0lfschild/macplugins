@@ -5,7 +5,7 @@
 	<key>com.github.jslegendre.Termite</key>
 	<dict>
 		<key>version</key>
-		<string>1.0.37</string>
+		<string>1.0.42</string>
 		<key>apps</key>
 		<string>Bartender 3</string>
 		<key>author</key>
@@ -15,7 +15,7 @@
 		<key>contact</key>
 		<string>jslegendre@gmail.com</string>
 		<key>date</key>
-		<string>Oct 4, 2019</string>
+		<string>Oct 7, 2019</string>
 		<key>description</key>
 		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
 		<key>descriptionShort</key>
