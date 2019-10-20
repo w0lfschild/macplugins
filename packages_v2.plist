@@ -2,6 +2,44 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
+	<key>com.github.jslegendre.AfloatX</key>
+	<dict>
+		<key>version</key>
+		<string>1.0.2</string>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Jeremy Legendre</string>
+		<key>compat</key>
+		<string>macOS 10.13+</string>
+		<key>contact</key>
+		<string>jslegendre@gmail.com</string>
+		<key>date</key>
+		<string>Oct 19, 2019</string>
+		<key>description</key>
+		<string> Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to add some additional window management features.</string>
+		<key>descriptionShort</key>
+		<string>An alternative to Afloat that lives in the dock icon menu </string>
+		<key>filename</key>
+		<string>/bundles/AfloatX_1.0.2.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/jslegendre/AfloatX</string>
+		<key>name</key>
+		<string>AfloatX</string>
+		<key>package</key>
+		<string>com.github.jslegendre.AfloatX</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>webpage</key>
+		<string>https://github.com/jslegendre/AfloatX</string>
+	</dict>
 	<key>com.github.jslegendre.Termite</key>
 	<dict>
 		<key>version</key>
