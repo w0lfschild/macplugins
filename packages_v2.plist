@@ -2,615 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
 <dict>
-	<key>com.github.jslegendre.Termite</key>
-	<dict>
-		<key>version</key>
-		<string>1.0.37</string>
-		<key>apps</key>
-		<string>Bartender 3</string>
-		<key>author</key>
-		<string>Jeremy Legendre</string>
-		<key>compat</key>
-		<string>macOS 10.13+</string>
-		<key>contact</key>
-		<string>jslegendre@gmail.com</string>
-		<key>date</key>
-		<string>Oct 4, 2019</string>
-		<key>description</key>
-		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
-		<key>descriptionShort</key>
-		<string>Expand Bartender 3 on mouse over</string>
-		<key>filename</key>
-		<string>/bundles/Termite_1.0.38.zip</string>
-		<key>homepage</key>
-		<string>https://github.com/jslegendre/Termite</string>
-		<key>name</key>
-		<string>Termite</string>
-		<key>package</key>
-		<string>com.github.jslegendre.Termite</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.surteesstudios.Bartender</string>
-			</dict>
-		</array>
-		<key>webpage</key>
-		<string>https://github.com/jslegendre/Termite</string>
-	</dict>
-	<key>com.alexbeals.SpacesRenamer</key>
-	<dict>
-		<key>icon</key>
-		<string>/images/com.alexbeals.SpacesRenamer/icon.png</string>
-		<key>payed</key>
-		<false/>
-		<key>type</key>
-		<string>app</string>
-		<key>apps</key>
-		<string>Dock</string>
-		<key>author</key>
-		<string>Alex Beals</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string></string>
-		<key>date</key>
-		<string>Aug 05, 2019</string>
-		<key>description</key>
-		<string>Simple menubar tool that lets you customize the names of your spaces to anything you want.</string>
-		<key>descriptionShort</key>
-		<string>Rename spaces on macOS</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/spaces-renamer_1.7.1.zip</string>
-		<key>homepage</key>
-		<string>https://alexbeals.com/</string>
-		<key>name</key>
-		<string>spaces-renamer</string>
-		<key>package</key>
-		<string>com.alexbeals.SpacesRenamer</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>22541</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.dock</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.7.1</string>
-		<key>webpage</key>
-		<string>https://alexbeals.com/</string>
-	</dict>
-	<key>com.github.jslegendre.LiftOff</key>
-	<dict>
-		<key>icon</key>
-		<string>/images/com.github.jslegendre.LiftOff/icon.png</string>
-		<key>payed</key>
-		<true/>
-		<key>paddle</key>
-		<dict>
-			<key>apikey</key>
-			<string>508205c7de527e9cc702cd1b1e5e2733</string>
-			<key>vendorid</key>
-			<string>102003</string>
-			<key>productid</key>
-			<string>570933</string>
-		</dict>
-		<key>productID</key>
-		<string>570933</string>
-		<key>type</key>
-		<string>Bundle</string>
-		<key>apps</key>
-		<string>Dock</string>
-		<key>author</key>
-		<string>Jeremy Legendre</string>
-		<key>compat</key>
-		<string>macOS 10.15+</string>
-		<key>contact</key>
-		<string>jslegendre@gmail.com</string>
-		<key>date</key>
-		<string>Sep 19, 2018</string>
-		<key>description</key>
-		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
-		<key>descriptionShort</key>
-		<string>Overlay Launchpad on the Desktop</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/LiftOff_0.0.2885.zip</string>
-		<key>name</key>
-		<string>LiftOff</string>
-		<key>package</key>
-		<string>com.github.jslegendre.LiftOff</string>
-		<key>price</key>
-		<string>$2.99</string>
-		<key>size</key>
-		<string>1234</string>
-		<key>version</key>
-		<string>0.0.2885</string>
-		<key>homepage</key>
-		<string>https://cdock.macenhance.com/</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.dock</string>
-			</dict>
-		</array>
-	</dict>
-	<key>com.hackingdartmouth.message-indicator</key>
-	<dict>
-		<key>apps</key>
-		<string>Messages</string>
-		<key>author</key>
-		<string>Alex Beals</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>alexcbeals+simbl@gmail.com</string>
-		<key>date</key>
-		<string>Feb 04, 2018</string>
-		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
-		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven&apos;t responded</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/message-indicator_1.1.0.zip</string>
-		<key>homepage</key>
-		<string>https://github.com/dado3212/message-indicator</string>
-		<key>name</key>
-		<string>message-indicator</string>
-		<key>package</key>
-		<string>com.hackingdartmouth.message-indicator</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<string>20002</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.iChat</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.1.0</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>com.kuglee.batteryextra</key>
-	<dict>
-		<key>apps</key>
-		<string>Battery Statusbar Item</string>
-		<key>author</key>
-		<string>Gábor Librecz</string>
-		<key>compat</key>
-		<string>macOS 10.12+</string>
-		<key>contact</key>
-		<string>kuglee@gmail.com</string>
-		<key>date</key>
-		<string>May 05, 2018</string>
-		<key>description</key>
-		<string>Makes the Battery status indicator work just like how it did back in Mac OS X Lion (10.7).</string>
-		<key>descriptionShort</key>
-		<string>Plugin for the Battery status indicator</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/BatteryExtra_1.3.1.zip</string>
-		<key>homepage</key>
-		<string>https://github.com/kuglee/BatteryExtra</string>
-		<key>name</key>
-		<string>BatteryExtra</string>
-		<key>package</key>
-		<string>com.kuglee.batteryextra</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>6476161</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.systemuiserver</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.3.1</string>
-		<key>webpage</key>
-		<string>https://github.com/kuglee/BatteryExtra</string>
-	</dict>
-	<key>com.mneorr.Alcatraz</key>
-	<dict>
-		<key>apps</key>
-		<string>Xcode</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>Xcode 7+</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>date</key>
-		<string>Jan 18, 2017</string>
-		<key>description</key>
-		<string>Plugin manager for Xcode</string>
-		<key>descriptionShort</key>
-		<string></string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/Alcatraz_1.2.1.zip</string>
-		<key>homepage</key>
-		<string>http://alcatraz.io/</string>
-		<key>name</key>
-		<string>Alcatraz</string>
-		<key>package</key>
-		<string>com.mneorr.Alcatraz</string>
-		<key>price</key>
-		<string>Free</string>
-		<key>size</key>
-		<string>138158</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.dt.Xcode</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.2.1</string>
-		<key>webpage</key>
-		<string>http://alcatraz.io/</string>
-	</dict>
-	<key>com.shishkabibal.WriteReceipt</key>
-	<dict>
-		<key>apps</key>
-		<string>Messages</string>
-		<key>author</key>
-		<string>Brian</string>
-		<key>compat</key>
-		<string>macOS 10.13+</string>
-		<key>contact</key>
-		<string></string>
-		<key>date</key>
-		<string>May 05, 2018</string>
-		<key>description</key>
-		<string>plugin for Messages that leaves chats unread (and read receipts unsent) until you begin typing a reply (or press enter)</string>
-		<key>descriptionShort</key>
-		<string>Leaves chats unread until you type</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/WriteReceipt_1.1.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>WriteReceipt</string>
-		<key>package</key>
-		<string>com.shishkabibal.WriteReceipt</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>76074</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.iChat</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.1</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>info.8-p.GreaseKit</key>
-	<dict>
-		<key>apps</key>
-		<string>Safari</string>
-		<key>author</key>
-		<string>Kato Kazuyoshi</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>date</key>
-		<string>Apr 01, 2017</string>
-		<key>description</key>
-		<string>GreaseKit is a MacForge plugin, that adds user scripting to Safari, Mailplane, Diet Pibb.app and all WebKit applications.</string>
-		<key>descriptionShort</key>
-		<string>Adds user scripting to Safari</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/GreaseKit_1.7.zip</string>
-		<key>homepage</key>
-		<string>https://8-p.info/greasekit/</string>
-		<key>name</key>
-		<string>GreaseKit</string>
-		<key>package</key>
-		<string>info.8-p.GreaseKit</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>75609</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.7</string>
-		<key>webpage</key>
-		<string>https://8-p.info/greasekit/</string>
-	</dict>
-	<key>me.choco.noTitleBarTerminal</key>
-	<dict>
-		<key>apps</key>
-		<string></string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>date</key>
-		<string>Apr 01, 2017</string>
-		<key>description</key>
-		<string>Removes the titlebar from the Terminal for a clean look while coding.</string>
-		<key>descriptionShort</key>
-		<string>No tiltle bar in the Terminal app</string>
-		<key>donate</key>
-		<string>https://www.paypal.me/w0lfspapa</string>
-		<key>filename</key>
-		<string>/bundles/noTitleBar-Terminal_0.2.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>noTitleBar-Terminal</string>
-		<key>package</key>
-		<string>me.choco.noTitleBarTerminal</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>10755</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Terminal</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.2</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>me.inket.GlobalNoFullscreenButton</key>
-	<dict>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>mahdi@outlook.com</string>
-		<key>date</key>
-		<string>Mar 15, 2017</string>
-		<key>description</key>
-		<string>Hides fullscreen button from windows.</string>
-		<key>descriptionShort</key>
-		<string></string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/GlobalNoFullscreenButton_1.0.zip</string>
-		<key>homepage</key>
-		<string>https://github.com/inket</string>
-		<key>name</key>
-		<string>GlobalNoFullscreenButton</string>
-		<key>package</key>
-		<string>me.inket.GlobalNoFullscreenButton</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>5252</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.0</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>me.inket.GlobalNoWindowIcon</key>
-	<dict>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>mahdi@outlook.com</string>
-		<key>date</key>
-		<string>Mar 15, 2017</string>
-		<key>description</key>
-		<string>Hides window icons on (almost) all apps.</string>
-		<key>descriptionShort</key>
-		<string></string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/GlobalNoWindowIcon_1.0.zip</string>
-		<key>homepage</key>
-		<string>https://github.com/inket</string>
-		<key>name</key>
-		<string>GlobalNoWindowIcon</string>
-		<key>package</key>
-		<string>me.inket.GlobalNoWindowIcon</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>16052</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.0</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>me.inket.GlobalNoWindowTitle</key>
-	<dict>
-		<key>apps</key>
-		<string>System</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>mahdi@outlook.com</string>
-		<key>date</key>
-		<string>Mar 15, 2017</string>
-		<key>description</key>
-		<string>Hides window titles+icons.</string>
-		<key>descriptionShort</key>
-		<string></string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/GlobalNoWindowTitle_1.0.zip</string>
-		<key>homepage</key>
-		<string>https://github.com/inket</string>
-		<key>name</key>
-		<string>GlobalNoWindowTitle</string>
-		<key>package</key>
-		<string>me.inket.GlobalNoWindowTitle</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>8567</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>*</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.0</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>name.guoc.excerptor.PDFReaderPlugin</key>
-	<dict>
-		<key>apps</key>
-		<string>Preview / Skim</string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.10+</string>
-		<key>contact</key>
-		<string>guochen42+excerptor@gmail.com</string>
-		<key>date</key>
-		<string>Mar 11, 2017</string>
-		<key>description</key>
-		<string>When you read a PDF file, you may want to take some excerpts, like excerpting on physical books (including article name, page number etc.). Via Excerptor, you can take excerpts easily: select text in Preview/Skim and type a shortcut. An excerpt will be stored in pasteboard or a file. The excerpt includes a special link. By clicking the link, Excerptor will open the corresponding file by Preview/Skim, go to the page you want and highlight the excerpt you made, automatically.</string>
-		<key>descriptionShort</key>
-		<string>Take and locate excerpts in PDF files quickly</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/PDFReaderPlugin_1.2.zip</string>
-		<key>homepage</key>
-		<string>https://github.com/guoc/excerptor</string>
-		<key>name</key>
-		<string>PDFReaderPlugin</string>
-		<key>package</key>
-		<string>name.guoc.excerptor.PDFReaderPlugin</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>30097</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Preview</string>
-			</dict>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>net.sourceforge.skim-app.skim</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>1.2</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
-	<key>org.craptech.lightWin</key>
-	<dict>
-		<key>apps</key>
-		<string></string>
-		<key>author</key>
-		<string>Wolfgang Baird</string>
-		<key>compat</key>
-		<string>macOS 10.9+</string>
-		<key>contact</key>
-		<string>aguywithlonghair@gmail.com</string>
-		<key>date</key>
-		<string>Apr 01, 2017</string>
-		<key>description</key>
-		<string>Simple bundle to give Terminal a borderless, shadowless look</string>
-		<key>descriptionShort</key>
-		<string>borderless, shadowless Terminal.app</string>
-		<key>donate</key>
-		<string></string>
-		<key>filename</key>
-		<string>/bundles/lightWin_0.1.14.zip</string>
-		<key>homepage</key>
-		<string></string>
-		<key>name</key>
-		<string>lightWin</string>
-		<key>package</key>
-		<string>org.craptech.lightWin</string>
-		<key>price</key>
-		<string>$0.00</string>
-		<key>size</key>
-		<string>22098</string>
-		<key>targets</key>
-		<array>
-			<dict>
-				<key>BundleIdentifier</key>
-				<string>com.apple.Terminal</string>
-			</dict>
-		</array>
-		<key>version</key>
-		<string>0.1.14</string>
-		<key>webpage</key>
-		<string></string>
-	</dict>
 	<key>ca.adambell.DarkDock</key>
 	<dict>
 		<key>apps</key>
@@ -638,7 +29,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>19941</string>
+		<integer>19941</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -682,7 +73,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>9786</string>
+		<integer>9786</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -694,6 +85,58 @@
 		<string>1.0</string>
 		<key>webpage</key>
 		<string></string>
+	</dict>
+	<key>com.alexbeals.SpacesRenamer</key>
+	<dict>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>Alex Beals</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string></string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Aug 05, 2019</string>
+		<key>description</key>
+		<string>Simple menubar tool that lets you customize the names of your spaces to anything you want.</string>
+		<key>descriptionShort</key>
+		<string>Rename spaces on macOS</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/spaces-renamer_1.7.1.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://alexbeals.com/</string>
+		<key>icon</key>
+		<string>/images/com.alexbeals.SpacesRenamer/icon.png</string>
+		<key>name</key>
+		<string>spaces-renamer</string>
+		<key>package</key>
+		<string>com.alexbeals.SpacesRenamer</string>
+		<key>payed</key>
+		<false/>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>7991083</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>app</string>
+		<key>version</key>
+		<string>1.7.1</string>
+		<key>webpage</key>
+		<string>https://alexbeals.com/</string>
 	</dict>
 	<key>com.elanini.PreviewNoSidebar</key>
 	<dict>
@@ -722,7 +165,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>11061</string>
+		<integer>11061</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -732,6 +175,149 @@
 		</array>
 		<key>version</key>
 		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.github.jslegendre.LiftOff</key>
+	<dict>
+		<key>apps</key>
+		<string>Dock</string>
+		<key>author</key>
+		<string>Jeremy Legendre</string>
+		<key>compat</key>
+		<string>macOS 10.15+</string>
+		<key>contact</key>
+		<string>jslegendre@gmail.com</string>
+		<key>customIcon</key>
+		<true/>
+		<key>date</key>
+		<string>Sep 19, 2019</string>
+		<key>description</key>
+		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
+		<key>descriptionShort</key>
+		<string>Overlay Launchpad on the Desktop</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/LiftOff_0.0.2885.zip</string>
+		<key>hasPreview</key>
+		<true/>
+		<key>homepage</key>
+		<string>https://cdock.macenhance.com/</string>
+		<key>icon</key>
+		<string>/images/com.github.jslegendre.LiftOff/icon.png</string>
+		<key>name</key>
+		<string>LiftOff</string>
+		<key>package</key>
+		<string>com.github.jslegendre.LiftOff</string>
+		<key>paddle</key>
+		<dict>
+			<key>apikey</key>
+			<string>508205c7de527e9cc702cd1b1e5e2733</string>
+			<key>productid</key>
+			<string>570933</string>
+			<key>vendorid</key>
+			<string>102003</string>
+		</dict>
+		<key>payed</key>
+		<true/>
+		<key>price</key>
+		<string>$2.99</string>
+		<key>productID</key>
+		<string>570933</string>
+		<key>size</key>
+		<integer>1223986</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dock</string>
+			</dict>
+		</array>
+		<key>type</key>
+		<string>Bundle</string>
+		<key>version</key>
+		<string>0.0.2885</string>
+	</dict>
+	<key>com.github.jslegendre.Termite</key>
+	<dict>
+		<key>apps</key>
+		<string>Bartender 3</string>
+		<key>author</key>
+		<string>Jeremy Legendre</string>
+		<key>compat</key>
+		<string>macOS 10.13+</string>
+		<key>contact</key>
+		<string>jslegendre@gmail.com</string>
+		<key>date</key>
+		<string>Oct 03, 2019</string>
+		<key>description</key>
+		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
+		<key>descriptionShort</key>
+		<string>Expand Bartender 3 on mouse over</string>
+		<key>filename</key>
+		<string>/bundles/Termite_1.0.38.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/jslegendre/Termite</string>
+		<key>name</key>
+		<string>Termite</string>
+		<key>package</key>
+		<string>com.github.jslegendre.Termite</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>10012</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.surteesstudios.Bartender</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0.37</string>
+		<key>webpage</key>
+		<string>https://github.com/jslegendre/Termite</string>
+	</dict>
+	<key>com.hackingdartmouth.message-indicator</key>
+	<dict>
+		<key>apps</key>
+		<string>Messages</string>
+		<key>author</key>
+		<string>Alex Beals</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>alexcbeals+simbl@gmail.com</string>
+		<key>date</key>
+		<string>Apr 14, 2018</string>
+		<key>description</key>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
+		<key>descriptionShort</key>
+		<string>A Messages indicator for when you haven&apos;t responded</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/message-indicator_1.1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/dado3212/message-indicator</string>
+		<key>name</key>
+		<string>message-indicator</string>
+		<key>package</key>
+		<string>com.hackingdartmouth.message-indicator</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>20002</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.iChat</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.1.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -762,7 +348,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>346315</string>
+		<integer>346315</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -774,6 +360,90 @@
 		<string>9.0.217Yosemite</string>
 		<key>webpage</key>
 		<string></string>
+	</dict>
+	<key>com.kuglee.batteryextra</key>
+	<dict>
+		<key>apps</key>
+		<string>Battery Statusbar Item</string>
+		<key>author</key>
+		<string>Gábor Librecz</string>
+		<key>compat</key>
+		<string>macOS 10.12+</string>
+		<key>contact</key>
+		<string>kuglee@gmail.com</string>
+		<key>date</key>
+		<string>May 05, 2018</string>
+		<key>description</key>
+		<string>Makes the Battery status indicator work just like how it did back in Mac OS X Lion (10.7).</string>
+		<key>descriptionShort</key>
+		<string>Plugin for the Battery status indicator</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/BatteryExtra_1.3.1.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/kuglee/BatteryExtra</string>
+		<key>name</key>
+		<string>BatteryExtra</string>
+		<key>package</key>
+		<string>com.kuglee.batteryextra</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>6476161</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.systemuiserver</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.3.1</string>
+		<key>webpage</key>
+		<string>https://github.com/kuglee/BatteryExtra</string>
+	</dict>
+	<key>com.mneorr.Alcatraz</key>
+	<dict>
+		<key>apps</key>
+		<string>Xcode</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>Xcode 7+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Apr 14, 2018</string>
+		<key>description</key>
+		<string>Plugin manager for Xcode</string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/Alcatraz_1.2.1.zip</string>
+		<key>homepage</key>
+		<string>http://alcatraz.io/</string>
+		<key>name</key>
+		<string>Alcatraz</string>
+		<key>package</key>
+		<string>com.mneorr.Alcatraz</string>
+		<key>price</key>
+		<string>Free</string>
+		<key>size</key>
+		<integer>138158</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.dt.Xcode</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.2.1</string>
+		<key>webpage</key>
+		<string>http://alcatraz.io/</string>
 	</dict>
 	<key>com.pooriaazimi.betterdictionary</key>
 	<dict>
@@ -802,7 +472,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>326967</string>
+		<integer>326967</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -842,7 +512,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>18454</string>
+		<integer>18454</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -886,7 +556,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>5153</string>
+		<integer>5153</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -896,6 +566,48 @@
 		</array>
 		<key>version</key>
 		<string>0.1.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>com.shishkabibal.WriteReceipt</key>
+	<dict>
+		<key>apps</key>
+		<string>Messages</string>
+		<key>author</key>
+		<string>Brian</string>
+		<key>compat</key>
+		<string>macOS 10.13+</string>
+		<key>contact</key>
+		<string></string>
+		<key>date</key>
+		<string>May 05, 2018</string>
+		<key>description</key>
+		<string>plugin for Messages that leaves chats unread (and read receipts unsent) until you begin typing a reply (or press enter)</string>
+		<key>descriptionShort</key>
+		<string>Leaves chats unread until you type</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/WriteReceipt_1.1.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>WriteReceipt</string>
+		<key>package</key>
+		<string>com.shishkabibal.WriteReceipt</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>76074</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.iChat</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.1</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -926,7 +638,7 @@
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>10978</string>
+		<integer>10978</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -939,13 +651,54 @@
 		<key>webpage</key>
 		<string></string>
 	</dict>
+	<key>info.8-p.GreaseKit</key>
+	<dict>
+		<key>apps</key>
+		<string>Safari</string>
+		<key>author</key>
+		<string>Kato Kazuyoshi</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Apr 14, 2018</string>
+		<key>description</key>
+		<string>GreaseKit is a MacForge plugin, that adds user scripting to Safari, Mailplane, Diet Pibb.app and all WebKit applications.</string>
+		<key>descriptionShort</key>
+		<string>Adds user scripting to Safari</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/GreaseKit_1.7.zip</string>
+		<key>homepage</key>
+		<string>https://8-p.info/greasekit/</string>
+		<key>name</key>
+		<string>GreaseKit</string>
+		<key>package</key>
+		<string>info.8-p.GreaseKit</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>75609</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.7</string>
+		<key>webpage</key>
+		<string>https://8-p.info/greasekit/</string>
+	</dict>
 	<key>io.callcc.Spaytify</key>
 	<dict>
 		<key>apps</key>
 		<string>Spotify</string>
 		<key>author</key>
-		<string>Matt Green
-Matt Green</string>
+		<string>Matt Green</string>
 		<key>compat</key>
 		<string>macOS 10.9+</string>
 		<key>contact</key>
@@ -967,7 +720,7 @@ Matt Green</string>
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>4799</string>
+		<integer>4799</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -977,6 +730,48 @@ Matt Green</string>
 		</array>
 		<key>version</key>
 		<string>1.0.1</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>me.choco.noTitleBarTerminal</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Apr 14, 2018</string>
+		<key>description</key>
+		<string>Removes the titlebar from the Terminal for a clean look while coding.</string>
+		<key>descriptionShort</key>
+		<string>No tiltle bar in the Terminal app</string>
+		<key>donate</key>
+		<string>https://www.paypal.me/w0lfspapa</string>
+		<key>filename</key>
+		<string>/bundles/noTitleBar-Terminal_0.2.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>noTitleBar-Terminal</string>
+		<key>package</key>
+		<string>me.choco.noTitleBarTerminal</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>10755</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Terminal</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -1007,7 +802,7 @@ Matt Green</string>
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>21336</string>
+		<integer>21336</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -1017,6 +812,132 @@ Matt Green</string>
 		</array>
 		<key>version</key>
 		<string>1.5</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>me.inket.GlobalNoFullscreenButton</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>mahdi@outlook.com</string>
+		<key>date</key>
+		<string>Apr 14, 2018</string>
+		<key>description</key>
+		<string>Hides fullscreen button from windows.</string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/GlobalNoFullscreenButton_1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/inket</string>
+		<key>name</key>
+		<string>GlobalNoFullscreenButton</string>
+		<key>package</key>
+		<string>me.inket.GlobalNoFullscreenButton</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>5252</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>me.inket.GlobalNoWindowIcon</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>mahdi@outlook.com</string>
+		<key>date</key>
+		<string>Apr 14, 2018</string>
+		<key>description</key>
+		<string>Hides window icons on (almost) all apps.</string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/GlobalNoWindowIcon_1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/inket</string>
+		<key>name</key>
+		<string>GlobalNoWindowIcon</string>
+		<key>package</key>
+		<string>me.inket.GlobalNoWindowIcon</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>16052</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>me.inket.GlobalNoWindowTitle</key>
+	<dict>
+		<key>apps</key>
+		<string>System</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>mahdi@outlook.com</string>
+		<key>date</key>
+		<string>Apr 14, 2018</string>
+		<key>description</key>
+		<string>Hides window titles+icons.</string>
+		<key>descriptionShort</key>
+		<string></string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/GlobalNoWindowTitle_1.0.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/inket</string>
+		<key>name</key>
+		<string>GlobalNoWindowTitle</string>
+		<key>package</key>
+		<string>me.inket.GlobalNoWindowTitle</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>8567</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>*</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.0</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -1047,7 +968,7 @@ Matt Green</string>
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>16650</string>
+		<integer>16650</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -1057,6 +978,52 @@ Matt Green</string>
 		</array>
 		<key>version</key>
 		<string>1.4.2</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>name.guoc.excerptor.PDFReaderPlugin</key>
+	<dict>
+		<key>apps</key>
+		<string>Preview / Skim</string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.10+</string>
+		<key>contact</key>
+		<string>guochen42+excerptor@gmail.com</string>
+		<key>date</key>
+		<string>Apr 14, 2018</string>
+		<key>description</key>
+		<string>When you read a PDF file, you may want to take some excerpts, like excerpting on physical books (including article name, page number etc.). Via Excerptor, you can take excerpts easily: select text in Preview/Skim and type a shortcut. An excerpt will be stored in pasteboard or a file. The excerpt includes a special link. By clicking the link, Excerptor will open the corresponding file by Preview/Skim, go to the page you want and highlight the excerpt you made, automatically.</string>
+		<key>descriptionShort</key>
+		<string>Take and locate excerpts in PDF files quickly</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/PDFReaderPlugin_1.2.zip</string>
+		<key>homepage</key>
+		<string>https://github.com/guoc/excerptor</string>
+		<key>name</key>
+		<string>PDFReaderPlugin</string>
+		<key>package</key>
+		<string>name.guoc.excerptor.PDFReaderPlugin</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>30097</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Preview</string>
+			</dict>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>net.sourceforge.skim-app.skim</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>1.2</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -1087,7 +1054,7 @@ Matt Green</string>
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>76236</string>
+		<integer>76236</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -1097,6 +1064,48 @@ Matt Green</string>
 		</array>
 		<key>version</key>
 		<string>plus-1.0a10</string>
+		<key>webpage</key>
+		<string></string>
+	</dict>
+	<key>org.craptech.lightWin</key>
+	<dict>
+		<key>apps</key>
+		<string></string>
+		<key>author</key>
+		<string>Wolfgang Baird</string>
+		<key>compat</key>
+		<string>macOS 10.9+</string>
+		<key>contact</key>
+		<string>aguywithlonghair@gmail.com</string>
+		<key>date</key>
+		<string>Apr 14, 2018</string>
+		<key>description</key>
+		<string>Simple bundle to give Terminal a borderless, shadowless look</string>
+		<key>descriptionShort</key>
+		<string>borderless, shadowless Terminal.app</string>
+		<key>donate</key>
+		<string></string>
+		<key>filename</key>
+		<string>/bundles/lightWin_0.1.14.zip</string>
+		<key>homepage</key>
+		<string></string>
+		<key>name</key>
+		<string>lightWin</string>
+		<key>package</key>
+		<string>org.craptech.lightWin</string>
+		<key>price</key>
+		<string>$0.00</string>
+		<key>size</key>
+		<integer>22098</integer>
+		<key>targets</key>
+		<array>
+			<dict>
+				<key>BundleIdentifier</key>
+				<string>com.apple.Terminal</string>
+			</dict>
+		</array>
+		<key>version</key>
+		<string>0.1.14</string>
 		<key>webpage</key>
 		<string></string>
 	</dict>
@@ -1127,7 +1136,7 @@ Matt Green</string>
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>17929</string>
+		<integer>17929</integer>
 		<key>target</key>
 		<string>null</string>
 		<key>targets</key>
@@ -1173,7 +1182,7 @@ Matt Green</string>
 		<key>price</key>
 		<string>Free</string>
 		<key>size</key>
-		<string>16275</string>
+		<integer>16275</integer>
 		<key>targets</key>
 		<array>
 			<dict>
