@@ -300,7 +300,7 @@
 		<key>date</key>
 		<string>Oct 26, 2019</string>
 		<key>description</key>
-		<string>Expand Bartender 3 on mouse over. Now you won't have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
+		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
 		<key>descriptionShort</key>
 		<string>Expand Bartender 3 on mouse over</string>
 		<key>filename</key>
@@ -340,9 +340,9 @@
 		<key>date</key>
 		<string>Apr 14, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven't responded</string>
+		<string>A Messages indicator for when you haven&apos;t responded</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -468,7 +468,7 @@
 		<key>description</key>
 		<string>Plugin manager for Xcode</string>
 		<key>descriptionShort</key>
-		<string></string>
+		<string>Plugin manager for Xcode</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -764,9 +764,9 @@
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
-		<string>Disable Spotify's badging/bouncing of the dock icon</string>
+		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
 		<key>descriptionShort</key>
-		<string>Disable Spotify's badging/bouncing of the dock icon</string>
+		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
