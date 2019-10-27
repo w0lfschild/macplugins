@@ -305,6 +305,8 @@
 		<string>Expand Bartender 3 on mouse over</string>
 		<key>filename</key>
 		<string>/bundles/Termite_1.0.42.zip</string>
+		<key>hasPreview</key>
+		<true/>
 		<key>homepage</key>
 		<string>https://github.com/jslegendre/Termite</string>
 		<key>name</key>
