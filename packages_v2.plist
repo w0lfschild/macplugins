@@ -16,6 +16,8 @@
 		<string>Dec 21, 2016</string>
 		<key>description</key>
 		<string>Force the Dock to display in Dark Mode</string>
+		<key>descriptionShort</key>
+		<string>Force the Dock to display in Dark Mode</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -59,6 +61,8 @@
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
+		<string>Change scrollbar placement to the left side</string>
+		<key>descriptionShort</key>
 		<string>Change scrollbar placement to the left side</string>
 		<key>donate</key>
 		<string></string>
@@ -151,6 +155,8 @@
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
+		<string>No sidebar in preview</string>
+		<key>descriptionShort</key>
 		<string>No sidebar in preview</string>
 		<key>donate</key>
 		<string></string>
@@ -294,7 +300,7 @@
 		<key>date</key>
 		<string>Oct 26, 2019</string>
 		<key>description</key>
-		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
+		<string>Expand Bartender 3 on mouse over. Now you won't have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
 		<key>descriptionShort</key>
 		<string>Expand Bartender 3 on mouse over</string>
 		<key>filename</key>
@@ -334,9 +340,9 @@
 		<key>date</key>
 		<string>Apr 14, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven&apos;t responded</string>
+		<string>A Messages indicator for when you haven't responded</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -376,6 +382,8 @@
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
+		<string>Improvements to Safari</string>
+		<key>descriptionShort</key>
 		<string>Improvements to Safari</string>
 		<key>donate</key>
 		<string></string>
@@ -501,6 +509,8 @@
 		<string>Dec 21, 2016</string>
 		<key>description</key>
 		<string>Improve the dictionary app</string>
+		<key>descriptionShort</key>
+		<string>Improve the dictionary app</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -540,6 +550,8 @@
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
+		<string>Send Chrome notification to the notification center</string>
+		<key>descriptionShort</key>
 		<string>Send Chrome notification to the notification center</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
@@ -584,6 +596,8 @@
 		<key>date</key>
 		<string>Jan 19, 2017</string>
 		<key>description</key>
+		<string>Copy text on selection in Terminal</string>
+		<key>descriptionShort</key>
 		<string>Copy text on selection in Terminal</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
@@ -667,6 +681,8 @@
 		<string>Dec 21, 2016</string>
 		<key>description</key>
 		<string>Hide the menubar on OSX 10.10 and below</string>
+		<key>descriptionShort</key>
+		<string>Hide the menubar on OSX 10.10 and below</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -748,7 +764,9 @@
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
-		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
+		<string>Disable Spotify's badging/bouncing of the dock icon</string>
+		<key>descriptionShort</key>
+		<string>Disable Spotify's badging/bouncing of the dock icon</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -830,6 +848,8 @@
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
+		<string>Personalise your Notification Center banners and alerts</string>
+		<key>descriptionShort</key>
 		<string>Personalise your Notification Center banners and alerts</string>
 		<key>donate</key>
 		<string></string>
@@ -997,6 +1017,8 @@
 		<string>Dec 21, 2016</string>
 		<key>description</key>
 		<string>Safari 5 tabs on Safari 6+</string>
+		<key>descriptionShort</key>
+		<string>Safari 5 tabs on Safari 6+</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -1083,6 +1105,8 @@
 		<string>Dec 21, 2016</string>
 		<key>description</key>
 		<string>Adds xterm mouse reporting to Terminal</string>
+		<key>descriptionShort</key>
+		<string>Adds xterm mouse reporting to Terminal</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
@@ -1165,6 +1189,8 @@
 		<string>Dec 21, 2016</string>
 		<key>description</key>
 		<string>Themed tabs change when in the background</string>
+		<key>descriptionShort</key>
+		<string>Themed tabs change when in the background</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -1210,6 +1236,8 @@
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
+		<string>Disply a notification when others are typing in Messages</string>
+		<key>descriptionShort</key>
 		<string>Disply a notification when others are typing in Messages</string>
 		<key>donate</key>
 		<string>https://hbang.ws/donate/</string>
