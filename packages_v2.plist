@@ -197,11 +197,11 @@
 		<key>date</key>
 		<string>Oct 26, 2019</string>
 		<key>description</key>
-		<string> Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to add some additional window management features.</string>
+		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to add some additional window management features.</string>
 		<key>descriptionShort</key>
 		<string>An alternative to Afloat that lives in the dock icon menu </string>
 		<key>filename</key>
-		<string>/bundles/AfloatX_1.0.2.zip</string>
+		<string>/bundles/AfloatX_1.0.3.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -222,7 +222,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.0.2</string>
+		<string>1.0.3</string>
 		<key>webpage</key>
 		<string>https://github.com/jslegendre/AfloatX</string>
 	</dict>
