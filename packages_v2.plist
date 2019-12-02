@@ -239,7 +239,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Sep 19, 2019</string>
+		<string>Oct 28, 2019</string>
 		<key>description</key>
 		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
 		<key>descriptionShort</key>
@@ -274,7 +274,7 @@
 		<key>productID</key>
 		<string>570933</string>
 		<key>size</key>
-		<integer>1223986</integer>
+		<integer>2498845</integer>
 		<key>targets</key>
 		<array>
 			<dict>
@@ -300,7 +300,7 @@
 		<key>date</key>
 		<string>Oct 26, 2019</string>
 		<key>description</key>
-		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
+		<string>Expand Bartender 3 on mouse over. Now you won't have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
 		<key>descriptionShort</key>
 		<string>Expand Bartender 3 on mouse over</string>
 		<key>filename</key>
@@ -342,9 +342,9 @@
 		<key>date</key>
 		<string>Apr 14, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven&apos;t responded</string>
+		<string>A Messages indicator for when you haven't responded</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -766,9 +766,9 @@
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
-		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
+		<string>Disable Spotify's badging/bouncing of the dock icon</string>
 		<key>descriptionShort</key>
-		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
+		<string>Disable Spotify's badging/bouncing of the dock icon</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
