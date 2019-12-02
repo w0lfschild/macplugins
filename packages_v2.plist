@@ -197,11 +197,11 @@
 		<key>date</key>
 		<string>Oct 26, 2019</string>
 		<key>description</key>
-		<string> Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to add some additional window management features.</string>
+		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to add some additional window management features.</string>
 		<key>descriptionShort</key>
 		<string>An alternative to Afloat that lives in the dock icon menu </string>
 		<key>filename</key>
-		<string>/bundles/AfloatX_1.0.2.zip</string>
+		<string>/bundles/AfloatX_1.0.3.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -222,7 +222,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.0.2</string>
+		<string>1.0.3</string>
 		<key>webpage</key>
 		<string>https://github.com/jslegendre/AfloatX</string>
 	</dict>
@@ -239,7 +239,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Oct 28, 2019</string>
+		<string>Dec 1, 2019</string>
 		<key>description</key>
 		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
 		<key>descriptionShort</key>
@@ -247,7 +247,7 @@
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
-		<string>/bundles/LiftOff_1.1.3.zip</string>
+		<string>/bundles/LiftOff_1.1.4.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -285,7 +285,7 @@
 		<key>type</key>
 		<string>Bundle</string>
 		<key>version</key>
-		<string>1.1.3</string>
+		<string>1.1.4</string>
 	</dict>
 	<key>com.github.jslegendre.Termite</key>
 	<dict>
