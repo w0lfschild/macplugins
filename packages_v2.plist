@@ -239,7 +239,7 @@
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Dec 1, 2019</string>
+		<string>Dec 2, 2019</string>
 		<key>description</key>
 		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
 		<key>descriptionShort</key>
@@ -247,7 +247,7 @@
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
-		<string>/bundles/LiftOff_1.1.4.zip</string>
+		<string>/bundles/LiftOff_1.1.5.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -285,7 +285,7 @@
 		<key>type</key>
 		<string>Bundle</string>
 		<key>version</key>
-		<string>1.1.4</string>
+		<string>1.1.5</string>
 	</dict>
 	<key>com.github.jslegendre.Termite</key>
 	<dict>
