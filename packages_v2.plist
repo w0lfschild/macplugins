@@ -1267,5 +1267,51 @@
 		<key>webpage</key>
 		<string>https://typestatus.com/</string>
 	</dict>
+  <key>com.decode.JelloInject</key>
+  <dict>
+    <key>apps</key>
+    <string>System</string>
+    <key>author</key>
+    <string>iamDecode</string>
+    <key>compat</key>
+    <string>macOS 10.9+</string>
+    <key>contact</key>
+    <string>iamdecode@me.com</string>
+    <key>customIcon</key>
+    <true/>
+    <key>date</key>
+    <string>Jan 28, 2020</string>
+    <key>description</key>
+    <string>A wobbly windows implementation for MacOS inspired by Compiz for Linux.</string>
+    <key>descriptionShort</key>
+    <string>A wobbly windows implementation for MacOS inspired by Compiz for Linux.</string>
+    <key>donate</key>
+    <string></string>
+    <key>filename</key>
+    <string>/bundles/Jello_0.0.2.zip</string>
+    <key>homepage</key>
+    <string>https://github.com/iamDecode/Jello</string>
+    <key>icon</key>
+    <string>/images/com.decode.JelloInject/icon.png</string>
+    <key>name</key>
+    <string>Jello</string>
+    <key>package</key>
+    <string>com.decode.JelloInject</string>
+    <key>price</key>
+    <string>Free</string>
+    <key>size</key>
+    <integer>3293476</integer>
+    <key>targets</key>
+    <array>
+      <dict>
+        <key>BundleIdentifier</key>
+        <string>*</string>
+      </dict>
+    </array>
+    <key>version</key>
+    <string>0.0.2</string>
+    <key>webpage</key>
+    <string></string>
+  </dict>
 </dict>
 </plist>
