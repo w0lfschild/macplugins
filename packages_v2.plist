@@ -195,13 +195,22 @@
 		<key>contact</key>
 		<string>jslegendre@gmail.com</string>
 		<key>date</key>
-		<string>Jan 28, 2019</string>
+		<string>Jan 30, 2019</string>
 		<key>description</key>
-		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to add some additional window management features.</string>
+		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to give you some additional window management features.  
+Current features are: 
+Keep window on top (floating window)
+Keep window on behind all other windows
+Transient mode: Always come to focus in current space. Won&apos;t force you back to that windows last active space
+Sticky mode: Window stays visible on all spaces
+Invert window color
+Click-Through window: Window is invisible to clicks (best paired with a floating window)
+Outline Window: Outline window with 1 of 8 colors
+Window transparency</string>
 		<key>descriptionShort</key>
-		<string>A powerful yet discreet plugin to add extra features to your windows</string>
+		<string>A powerful yet discreet plugin to add extra features to your windows and window management</string>
 		<key>filename</key>
-		<string>/bundles/AfloatX_1.3.1.zip</string>
+		<string>/bundles/AfloatX_1.3.4.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -222,7 +231,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.3.1</string>
+		<string>1.3.4</string>
 		<key>webpage</key>
 		<string>https://github.com/jslegendre/AfloatX</string>
 	</dict>
