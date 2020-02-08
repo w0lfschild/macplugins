@@ -1295,9 +1295,11 @@ Window transparency</string>
     <key>descriptionShort</key>
     <string>A wobbly windows implementation for MacOS inspired by Compiz for Linux.</string>
     <key>donate</key>
-    <string></string>
+    <string>https://www.paypal.me/iamdecode</string>
     <key>filename</key>
     <string>/bundles/Jello_0.0.2.zip</string>
+    <key>hasPreview</key>
+    <true/>
     <key>homepage</key>
     <string>https://github.com/iamDecode/Jello</string>
     <key>icon</key>
