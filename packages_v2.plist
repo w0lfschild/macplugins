@@ -191,17 +191,26 @@
 		<key>author</key>
 		<string>Jeremy Legendre</string>
 		<key>compat</key>
-		<string>macOS 10.13+</string>
+		<string>macOS 10.14+</string>
 		<key>contact</key>
 		<string>jslegendre@gmail.com</string>
 		<key>date</key>
-		<string>Dec 07, 2019</string>
+		<string>Jan 31, 2019</string>
 		<key>description</key>
-		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to add some additional window management features.</string>
+		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to give you some additional window management features.  
+Current features are: 
+Keep window on top (floating window)
+Keep window on behind all other windows
+Transient mode: Always come to focus in current space. Won&apos;t force you back to that windows last active space
+Sticky mode: Window stays visible on all spaces
+Invert window color
+Click-Through window: Window is invisible to clicks (best paired with a floating window)
+Outline Window: Outline window with 1 of 8 colors
+Window transparency</string>
 		<key>descriptionShort</key>
-		<string>An alternative to Afloat that lives in the dock icon menu </string>
+		<string>A powerful yet discreet plugin to add extra features to your windows and window management</string>
 		<key>filename</key>
-		<string>/bundles/AfloatX_1.2.8.zip</string>
+		<string>/bundles/AfloatX_1.3.5.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -222,7 +231,7 @@
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.2.8</string>
+		<string>1.3.5</string>
 		<key>webpage</key>
 		<string>https://github.com/jslegendre/AfloatX</string>
 	</dict>
@@ -1267,5 +1276,53 @@
 		<key>webpage</key>
 		<string>https://typestatus.com/</string>
 	</dict>
+  <key>com.decode.JelloInject</key>
+  <dict>
+    <key>apps</key>
+    <string>System</string>
+    <key>author</key>
+    <string>iamDecode</string>
+    <key>compat</key>
+    <string>macOS 10.9+</string>
+    <key>contact</key>
+    <string>iamdecode@me.com</string>
+    <key>customIcon</key>
+    <true/>
+    <key>date</key>
+    <string>Jan 28, 2020</string>
+    <key>description</key>
+    <string>A wobbly windows implementation for MacOS inspired by Compiz for Linux.</string>
+    <key>descriptionShort</key>
+    <string>A wobbly windows implementation for MacOS inspired by Compiz for Linux.</string>
+    <key>donate</key>
+    <string>https://www.paypal.me/iamdecode</string>
+    <key>filename</key>
+    <string>/bundles/Jello_0.0.2.zip</string>
+    <key>hasPreview</key>
+    <true/>
+    <key>homepage</key>
+    <string>https://github.com/iamDecode/Jello</string>
+    <key>icon</key>
+    <string>/images/com.decode.JelloInject/icon.png</string>
+    <key>name</key>
+    <string>Jello</string>
+    <key>package</key>
+    <string>com.decode.JelloInject</string>
+    <key>price</key>
+    <string>Free</string>
+    <key>size</key>
+    <integer>3293476</integer>
+    <key>targets</key>
+    <array>
+      <dict>
+        <key>BundleIdentifier</key>
+        <string>*</string>
+      </dict>
+    </array>
+    <key>version</key>
+    <string>0.0.2</string>
+    <key>webpage</key>
+    <string></string>
+  </dict>
 </dict>
 </plist>
