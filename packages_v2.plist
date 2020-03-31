@@ -296,7 +296,7 @@ Window transparency</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>March 30, 2020</string>
+		<string>Mar 30, 2020</string>
 		<key>description</key>
 		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
 		<key>descriptionShort</key>
@@ -331,7 +331,7 @@ Window transparency</string>
 		<key>productID</key>
 		<string>570933</string>
 		<key>size</key>
-		<integer>2499053</integer>
+		<integer>2498937</integer>
 		<key>targets</key>
 		<array>
 			<dict>
