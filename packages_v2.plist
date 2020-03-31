@@ -248,7 +248,7 @@ Window transparency</string>
 		<key>customIcon</key>
 		<true/>
 		<key>date</key>
-		<string>Dec 07, 2019</string>
+		<string>March 30, 2020</string>
 		<key>description</key>
 		<string>An awesome plugin that displays the launchpad on top of the Desktop at all times making it easier than ever to access your apps!</string>
 		<key>descriptionShort</key>
@@ -256,7 +256,7 @@ Window transparency</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
-		<string>/bundles/LiftOff_1.1.5.zip</string>
+		<string>/bundles/LiftOff_1.1.6.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -294,7 +294,7 @@ Window transparency</string>
 		<key>type</key>
 		<string>Bundle</string>
 		<key>version</key>
-		<string>1.1.5</string>
+		<string>1.1.6</string>
 	</dict>
 	<key>com.github.jslegendre.Termite</key>
 	<dict>
