@@ -243,13 +243,13 @@
 		<key>contact</key>
 		<string>jslegendre@gmail.com</string>
 		<key>date</key>
-		<string>Mar 17, 2020</string>
+		<string>May 22, 2020</string>
 		<key>description</key>
 		<string>Although AfloatX has some of the same features as Afloat, it is not meant to be a clone. AfloatX is a simple and unobtrusive plugin made to give you some additional window management features.  
 Current features are: 
 Keep window on top (floating window)
 Keep window on behind all other windows
-Transient mode: Always come to focus in current space. Won't force you back to that windows last active space
+Transient mode: Always come to focus in current space. Won&apos;t force you back to that windows last active space
 Sticky mode: Window stays visible on all spaces
 Invert window color
 Click-Through window: Window is invisible to clicks (best paired with a floating window)
@@ -257,8 +257,10 @@ Outline Window: Outline window with 1 of 8 colors
 Window transparency</string>
 		<key>descriptionShort</key>
 		<string>A powerful yet discreet plugin to add extra features to your windows and window management</string>
+		<key>donate</key>
+		<string>https://paypal.me/jslegendre</string>
 		<key>filename</key>
-		<string>/bundles/AfloatX_1.3.5.zip</string>
+		<string>/bundles/AfloatX_1.3.6.zip</string>
 		<key>hasPreview</key>
 		<true/>
 		<key>homepage</key>
@@ -279,7 +281,7 @@ Window transparency</string>
 			</dict>
 		</array>
 		<key>version</key>
-		<string>1.3.5</string>
+		<string>1.3.6</string>
 		<key>webpage</key>
 		<string>https://github.com/jslegendre/AfloatX</string>
 	</dict>
@@ -357,7 +359,7 @@ Window transparency</string>
 		<key>date</key>
 		<string>Oct 26, 2019</string>
 		<key>description</key>
-		<string>Expand Bartender 3 on mouse over. Now you won't have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
+		<string>Expand Bartender 3 on mouse over. Now you won&apos;t have to endure the long and arduous task of clicking on the little Bartender button to toggle your other status bar items.</string>
 		<key>descriptionShort</key>
 		<string>Expand Bartender 3 on mouse over</string>
 		<key>filename</key>
@@ -399,9 +401,9 @@ Window transparency</string>
 		<key>date</key>
 		<string>Apr 14, 2018</string>
 		<key>description</key>
-		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren't the last person to respond, and it's not a group chat.</string>
+		<string>This plugin adds a small gray indicator under the blue unread one to Messages if you weren&apos;t the last person to respond, and it&apos;s not a group chat.</string>
 		<key>descriptionShort</key>
-		<string>A Messages indicator for when you haven't responded</string>
+		<string>A Messages indicator for when you haven&apos;t responded</string>
 		<key>donate</key>
 		<string>https://www.paypal.me/w0lfspapa</string>
 		<key>filename</key>
@@ -823,9 +825,9 @@ Window transparency</string>
 		<key>date</key>
 		<string>Dec 21, 2016</string>
 		<key>description</key>
-		<string>Disable Spotify's badging/bouncing of the dock icon</string>
+		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
 		<key>descriptionShort</key>
-		<string>Disable Spotify's badging/bouncing of the dock icon</string>
+		<string>Disable Spotify&apos;s badging/bouncing of the dock icon</string>
 		<key>donate</key>
 		<string></string>
 		<key>filename</key>
